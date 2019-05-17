@@ -5,7 +5,11 @@ const ContactPage = () => {
     <div>
       <h1>Contact</h1>
       <p>
-        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+        The best way to reach me is via
+        <a href="https://twitter.com/@AlexanderDiendo" target="_blank">
+          @AlexanderDiendo
+        </a>{" "}
+        on Twitter!
       </p>
     </div>
   )
